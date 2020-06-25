@@ -1,4 +1,4 @@
 ### leetcode
-Solution of Leetcode problems
+- Solution of Leetcode problems
 
 [Leetcode Profile](https://leetcode.com/jntushar/)
